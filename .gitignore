@@ -1,0 +1,13 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+
+# Local Codex workspace metadata
+.agents/
+.aws/
+.codex/
+
+# One-time local source imports and their derived metadata.
+content_sources/
+public/content-index.json
